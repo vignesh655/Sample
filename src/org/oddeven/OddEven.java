@@ -14,6 +14,8 @@ public class OddEven {
 			System.out.println("odd number");
 
 		}
+		
+		System.out.println("changes");
 	}
 
 }
